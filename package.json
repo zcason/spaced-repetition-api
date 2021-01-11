@@ -14,7 +14,7 @@
     "postdeploy": "npm run migrate:production"
   },
   "keywords": [],
-  "author": "Tom `tomatao` HT <tomht@thinkful.com>",
+  "author": "Zuri Cason <zuri.cason@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
