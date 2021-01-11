@@ -1,5 +1,13 @@
 # Spaced repetition API!
 
+### Live link: https://space-rep-client.vercel.app
+- Demo Account Info:
+- Username: admin
+- Password: pass
+
+### Client repo: https://github.com/zcason/space-repetition-client
+### Server repo: https://github.com/zcason/spaced-repetition-api
+
 ## Local dev setup
 
 If using user `dunder-mifflin`:
