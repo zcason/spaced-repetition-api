@@ -13,6 +13,9 @@
     "deploy": "git push heroku master",
     "postdeploy": "npm run migrate:production"
   },
+  "engines": {
+    "node": "12.18.3"
+  },
   "keywords": [],
   "author": "Zuri Cason <zuri.cason@gmail.com>",
   "license": "MIT",
